@@ -1,0 +1,18 @@
+.card {
+  flex: 0 0 auto;
+  width: 60vw;
+  background-color: rgb(238, 238, 238);
+  text-align: left;
+  padding: 5px 20px;
+  margin: 10px;
+}
+
+.card-title {
+  color: rgba(0, 0, 0, 0.625);
+}
+
+.card-body {
+  letter-spacing: 1px;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.369);
+}
